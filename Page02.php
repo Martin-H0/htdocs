@@ -60,6 +60,9 @@ echo '
 		
 
 		</header>
+        <br>
+        <br>
+        <br>
         <section>
         <div class="container">
         <h1>Krmivo pro zvířata</h1>
