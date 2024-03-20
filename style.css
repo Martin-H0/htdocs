@@ -1,0 +1,33 @@
+html {
+	padding: 0;
+	margin: 0;
+}
+body {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+
+}
+section{
+	padding-top: 60;
+	padding: 35;
+}
+footer {
+	padding: 20;
+	
+	background-color: rgb(12, 12, 12);
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100vw;
+}
+
+a {
+	margin: 5;
+}
+
+p {
+	margin: 10;
+}
