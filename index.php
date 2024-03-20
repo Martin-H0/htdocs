@@ -58,6 +58,9 @@ if (!empty($_SESSION["username"]))
 }
 echo '
 		</header>
+		<br>
+        <br>
+        <br>
 
 		<section>
             <div class="text-with-image margin - right">
